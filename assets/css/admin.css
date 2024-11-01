@@ -1,0 +1,7 @@
+.wc_tuyopay-webhook-link {
+    background-color:#ddd;
+}
+
+.wc_payment_method.payment_method_tuyopay img {
+  vertical-align: middle !important;
+}
